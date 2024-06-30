@@ -1,0 +1,3 @@
+The Dataset is too large to upload to github. Here is a link to the kaggle page to download it yourself.
+
+https://www.kaggle.com/datasets/andrewmvd/automatic-slide-generation-from-scientific-papers
